@@ -1,8 +1,9 @@
 # MySQL Database One for All
 
-Projeto utilizando MySQL aplicando as 1ª, 2ª e 3ª formas normais e identificando as entidades, atributos e relacionamentos.
+Projeto realizado utilizando MySQL, aplicando as 1ª, 2ª e 3ª formas normais e identificando as entidades, atributos e relacionamentos.
 
-A proposta era consolidar todos os conhecimentos de SQL criando um banco de dados a partir de uma tabela despadronizada no Excel (arquivo `SpotifyClone-Non-NormalizedTable.xlsx`) que simula dados de um serviço de streaming de músicas. Também foram realizadas queries para consulta e a criação de VIEWS, TRIGGERS e UPDATEs.
+
+A proposta do projeto era consolidar todos os conhecimentos de SQL criando um banco de dados a partir de uma tabela despadronizada no Excel (arquivo `SpotifyClone-Non-NormalizedTable.xlsx`) que simulava dados de um serviço de streaming de músicas. Também foram realizadas queries para consulta e a criação de VIEWS, TRIGGERS e UPDATES.
 
 ### Lista de Requisitos
 
