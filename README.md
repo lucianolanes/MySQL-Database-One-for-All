@@ -111,4 +111,3 @@ Crie uma `VIEW` chamada `cancoes_premium` que exiba o nome e a quantidade de vez
 * A segunda coluna deve exibir a quantidade de pessoas que já escutaram aquela canção, com o alias "**reproducoes**";
 
 * Seus resultados devem estar agrupados pelo nome da canção e ordenados em ordem alfabética.
-* 
